@@ -1,0 +1,4 @@
+SimpleCV
+========
+
+SimpleCV book exercises
